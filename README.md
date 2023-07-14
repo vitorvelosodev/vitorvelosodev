@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vitor Veloso</h1>
 <h3 align="center">A FullStack developer with a special love for UX</h3>
 
+<h2>About me</h2>
+Hello! I'm Vitor, and I believe that diversity of thoughts and experiences is the key to solving problems.
+
+I've been passionate about technology since I was a child, and I'm currently in the process of transitioning careers. I have a degree in Mechanical Engineering and now I'm going towards my technology as software developer.
+
+I have experience in the Energy, Industry 4.0, and Audiovisual Project Management fields, including coordinating multinational teams and serving clients from 4 different continents.
+
+One of my strengths as a professional is my communication skills. I express myself well and can engage in productive dialogue with individuals from various roles within the teams I work with.
+
+As a software developer, I work with JavaScript/TypeScript, leveraging ReactJS for front-end development, particularly with the NextJS framework for building FullStack applications. I'm also proficient in CSS with Tailwind and have experience with global application state management using Redux. Additionally, I use the ExpressJS framework for back-end development and SQL databases in conjunction with ORMs like Express and Prisma.
+
+If you'd like to connect and chat, feel free to reach out to me on LinkedIn or through the contact information provided on my profile. See you soon!
+
+<h3>My Current Status as Developer</h3>
+
 - 🔭 I’m currently working on [Naranja ERP Project](https://github.com/NaranjaLabs/ERP)
 
 - 🌱 I’m currently learning **T3 Stack**
