@@ -18,7 +18,7 @@ If you'd like to connect and chat, feel free to reach out to me on LinkedIn or t
 
 - 🔭 I’m currently working on [Naranja ERP Project](https://github.com/NaranjaLabs/ERP)
 
-- 🌱 I’m currently learning **T3 Stack**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 👯 I’m looking to collaborate on **Educational Projects**
 
